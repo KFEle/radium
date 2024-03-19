@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,a3 as r}from"./chunks/framework.OoMHZVGt.js";const u=JSON.parse('{"title":"Radium","description":"","frontmatter":{},"headers":[],"relativePath":"docs/index.md","filePath":"docs/index.md"}'),o={name:"docs/index.md"},n=r("",7),s=[n];function i(d,c,l,h,p,_){return t(),e("div",null,s)}const f=a(o,[["render",i]]);export{u as __pageData,f as default};
